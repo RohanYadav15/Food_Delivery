@@ -1,10 +1,10 @@
 # food_delivery
 
-A new Flutter project.
+A fun project to try some awful designed. I liked it how about you. Let me know.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can simply clone the project and run on your machine. Make sure you import the necessary dependencies before you run.
 
 A few resources to get you started if this is your first Flutter project:
 
